@@ -7,9 +7,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/Leetcode-yellow" alt="Leetcode Badge"/>
-  </a>
+  
 </div>
 
 <div id="head" align="center">
