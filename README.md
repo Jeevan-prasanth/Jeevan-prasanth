@@ -16,7 +16,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-
+I'm Jeevanprasanth :
 - :telescope:I am a passionate student diving into the exciting realms of Artificial Intelligence and Data Science.
 
 
