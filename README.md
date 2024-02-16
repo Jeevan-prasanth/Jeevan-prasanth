@@ -41,7 +41,7 @@ I'm Jeevanprasanth :
 
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevan-prasanth)](https://github.com/Jeevan-prasanth/README)
 
 <!--
 **Jeevan-prasanth/Jeevan-prasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
